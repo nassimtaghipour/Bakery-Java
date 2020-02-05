@@ -8,7 +8,7 @@ selling their produce prepackaged in bunches and charging the customer on a per 
 shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8 they would get a pack of 3 and
 a pack of 5. 
 
-![alt text](https://raw.githubusercontent.com/nassimtaghipour/Bakery-Java/master/Bakery-Java/src/to/photo.png)
+![alt text](https://github.com/nassimtaghipour/Bakery-Java/src/photo.png)
 
 solution:
 
