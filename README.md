@@ -12,7 +12,7 @@ solution:
 
 The problem is rosolved by Dynamic Programming algorithm with time complexity of O(nm) (n refers to packets count and m refers to customer orders count) instead of recursive or other solutions with high complexity and heavy resources.
 
-the solution contains unit tests that the first one is implemented by the dataset that was mentioned in the question and the second one is implemented with random count of packets and random count of orders that provides a large number of test modes (The prepared solution was tested more than 1000000 times)
+the solution contains unit tests that the first one is implemented by the dataset that was mentioned  and the second one is implemented with random count of packets and random count of orders that provides a large number of test modes (The prepared solution was tested more than 1000000 times)
 
 Dev environment and libs:
 
