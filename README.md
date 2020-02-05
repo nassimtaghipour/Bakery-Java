@@ -8,8 +8,6 @@ selling their produce prepackaged in bunches and charging the customer on a per 
 shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8 they would get a pack of 3 and
 a pack of 5. 
 
-![alt text](https://github.com/nassimtaghipour/Bakery-Java/src/photo.png)
-
 solution:
 
 The problem is rosolved by Dynamic Programming algorithm with time complexity of O(nm) (n refers to packets count and m refers to customer orders count) instead of recursive or other solutions with high complexity and heavy resources.
