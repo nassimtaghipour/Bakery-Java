@@ -7,6 +7,10 @@ A bakery used to base the price of their produce on an individual item cost. So 
 selling their produce prepackaged in bunches and charging the customer on a per pack basis. So if the
 shop sold vegemite scroll in packs of 3 and 5 and a customer ordered 8 they would get a pack of 3 and
 a pack of 5. 
+The bakery currently sells the following products:
+
+<img src="https://github.com/nassimtaghipour/Bakery-Java/blob/master/src/Order.png" width="500" height="200">
+
 
 solution:
 
